@@ -9,6 +9,6 @@
 int main(){
 	
 	/* Write you code here*/
-	
+	printf("hello");
 	return 0;
 }
